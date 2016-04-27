@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./plantaeignszysz00szysgoog_0001.png"; bbox 0 0 3332 5241; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 91 4282 2120 4607">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 91 4282 2199 4607">
+     <span class='ocr_line' id='line_1_1' title="bbox 91 4282 2120 4433; baseline 0 -34"><span class='ocrx_word' id='word_1_1' title='bbox 91 4282 604 4401; x_wconf 73' lang='lat' dir='ltr'>Plantae</span> <span class='ocrx_word' id='word_1_2' title='bbox 648 4284 715 4401; x_wconf 67' lang='grc' dir='ltr'>εἰ</span> <span class='ocrx_word' id='word_1_3' title='bbox 761 4292 830 4399; x_wconf 88' lang='lat' dir='ltr'><strong><em>I</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 815 4324 1018 4433; x_wconf 78' lang='lat' dir='ltr'>gn.</span> <span class='ocrx_word' id='word_1_5' title='bbox 1077 4282 1956 4433; x_wconf 71' lang='lat' dir='ltr'><em>SzyszyJ0W1&#39;cz</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1988 4286 2120 4399; x_wconf 82' lang='lat' dir='ltr'>in</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 91 4460 2044 4607; baseline 0.001 -34"><span class='ocrx_word' id='word_1_7' title='bbox 91 4460 544 4575; x_wconf 73' lang='lat' dir='ltr'>itinere</span> <span class='ocrx_word' id='word_1_8' title='bbox 574 4498 821 4607; x_wconf 74' lang='lat' dir='ltr'>per</span> <span class='ocrx_word' id='word_1_9' title='bbox 862 4464 1698 4607; x_wconf 73' lang='lat' dir='ltr'>Cemagoram</span> <span class='ocrx_word' id='word_1_10' title='bbox 1752 4476 1879 4575; x_wconf 74' lang='lat' dir='ltr'>et</span> <span class='ocrx_word' id='word_1_11' title='bbox 1912 4460 2044 4573; x_wconf 80' lang='lat' dir='ltr'>in</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 89 4698 1570 4875">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 89 4698 1570 4875">
+     <span class='ocr_line' id='line_1_3' title="bbox 89 4698 1358 4773; baseline 0 -12"><span class='ocrx_word' id='word_1_12' title='bbox 89 4698 416 4763; x_wconf 62' lang='lat' dir='ltr'>Gfflnther</span> <span class='ocrx_word' id='word_1_13' title='bbox 457 4698 656 4761; x_wconf 62' lang='lat' dir='ltr'>ssaeck</span> <span class='ocrx_word' id='word_1_14' title='bbox 691 4714 832 4763; x_wconf 68' lang='lat' dir='ltr'>vor]</span> <span class='ocrx_word' id='word_1_15' title='bbox 879 4698 1358 4773; x_wconf 62' lang='lat' dir='ltr'>Mannaoetta</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 89 4800 1570 4875; baseline 0 -12"><span class='ocrx_word' id='word_1_16' title='bbox 89 4800 232 4863; x_wconf 64' lang='lat' dir='ltr'>[mci</span> <span class='ocrx_word' id='word_1_17' title='bbox 277 4800 728 4873; x_wconf 55' lang='lat' dir='ltr'>mmmmm,</span> <span class='ocrx_word' id='word_1_18' title='bbox 779 4800 988 4875; x_wconf 63' lang='lat'>*9032</span> <span class='ocrx_word' id='word_1_19' title='bbox 1031 4800 1570 4875; x_wconf 67' lang='lat' dir='ltr'>Szyszymwicz</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 3332 5166">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 3332 5166">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 3332 5166; baseline 0 0"><span class='ocrx_word' id='word_1_20' title='bbox 0 0 3332 5166; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
